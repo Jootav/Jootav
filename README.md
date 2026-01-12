@@ -1,4 +1,14 @@
-## Hi there 👋
+# About Me
+### 🎓 Information Systems student at UFU, Brazil.
+- 💻 Learning C and C++.
+- 💻 HTML and CSS experience. 
+- 👋 English intermediate proficiency.
+- 💌 Contact me through: jota.victor.barbosa@gmail.com
+## Skills
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!--
 **Jootav/Jootav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
