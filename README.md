@@ -1,6 +1,6 @@
 # About Me
 ### 🎓 Information Systems student at UFU, Brazil.
-- 💻 Learning C and C++.
+- 💻 Learning C, C++ and JavaScript.
 - 💻 HTML and CSS experience. 
 - 👋 English intermediate proficiency.
 - 💌 Contact me through: jota.victor.barbosa@gmail.com
