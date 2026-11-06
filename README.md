@@ -1,5 +1,5 @@
 # About Me
-### 🎓 Information Systems student at UFU, Brazil.
+### 🎓 Information Systems student @ UFU, Brazil.
 - 💻 Learning C, C++ and JavaScript.
 - 💻 HTML and CSS experience. 
 - 👋 English intermediate proficiency.
